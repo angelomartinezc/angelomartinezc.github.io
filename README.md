@@ -30,5 +30,5 @@ Aims to learn relationships between input variables and the output variable with
 Asked the algorithm to figure out all by itself what's interesting or what patterns or structure that might be in this data. It places the unlabeled data, into different clusters and this turns out to be used in many applications. The data comes only with inputs x but not output labels y. Some applications are: clustering (group similar data porint together), anomaly detection (find unusual data points) and dimensionality reduction (compress data using fewer numbers).
 ![unsupervised](https://user-images.githubusercontent.com/23408923/174518313-00cd7687-aa53-45cc-958d-3d1eb78dcdf5.png)
 
-<a href="https://github.com/angelomartinezc/supervised_learning" title="Linear Regression">Linear Regression</a>
+<a href="https://angelomartinezc.github.io/documents/README.md" title="Linear Regression">Linear Regression</a>
 
