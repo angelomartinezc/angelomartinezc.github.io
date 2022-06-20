@@ -17,12 +17,12 @@ The key characteristic is that you give your learning algorithm examples to lear
 Supervised learning algorithms primarily generate two kinds of results: classification and regression.
 
 ### Regression
-Aims to learn relationships and correlations between input variables and the one continuous output variable with the scope of predicting that continuous output variable.
+Aims to learn relationships and correlations between input variables and the one continuous output variable with the scope of predicting that continuous output variable. Regression model predicts numbers, it could be infinitely many possible outputs.
 ![regression2](https://user-images.githubusercontent.com/23408923/174516927-88b32efb-62bb-4ace-98a4-dd412c554123.png)
 
 
 ### Classificacion
-Aims to learn relationships between input variables and the output variable with the scope of separating the data into classes or groups, the output variable is categorical or discrete.
+Aims to learn relationships between input variables and the output variable with the scope of separating the data into classes or groups, the output variable is categorical or discrete. Classification model predicts categories, it could be small number of possible outputs.
 ![classification](https://user-images.githubusercontent.com/23408923/174517087-5dedad3f-f01b-4dcd-9d2c-358b81c6810a.png)
 
 
@@ -30,5 +30,5 @@ Aims to learn relationships between input variables and the output variable with
 Asked the algorithm to figure out all by itself what's interesting or what patterns or structure that might be in this data. It places the unlabeled data, into different clusters and this turns out to be used in many applications. The data comes only with inputs x but not output labels y. Some applications are: clustering (group similar data porint together), anomaly detection (find unusual data points) and dimensionality reduction (compress data using fewer numbers).
 ![unsupervised](https://user-images.githubusercontent.com/23408923/174518313-00cd7687-aa53-45cc-958d-3d1eb78dcdf5.png)
 
-<a href="https://angelomartinezc.github.io/documents/linear_regression.html" title="About Me">About Me</a>
+<a href="https://angelomartinezc.github.io/documents/linear_regression.html" title="Linear Regression">Linear Regression</a>
 
